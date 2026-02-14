@@ -1,12 +1,12 @@
 from telethon import TelegramClient, events
 
-api_id = 17754061
-api_hash = "5bed653b0b489617b09791468a289dfd"
+api_id = 17754111
+api_hash = "5bed653b0b411117b09791468a289dfd"
 
-source_chat = -1002833781652
+source_chat = -1002833781655
 source_topic = None          # None for no-topic groups
 
-target_chat = -1003304114621
+target_chat = -1003304114611
 target_topic = None          # None for no-topic groups
 
 start_id = 121750
